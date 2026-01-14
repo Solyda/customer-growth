@@ -21,7 +21,6 @@ The project uses transactional customer data, including:
 - `transaction_date`
 - `amount`
 
-Churn is defined as customer inactivity exceeding a fixed threshold (e.g., 90 days) and handled using right-censoring in survival analysis.
 
 ## 3. Methods Overview
 
