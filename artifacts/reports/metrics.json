@@ -1,0 +1,7 @@
+{
+  "auc": 0.9279318415546651,
+  "threshold": 0.7785214653862376,
+  "method": "Youden's J statistic",
+  "precision": 0.9489795918367347,
+  "recall": 0.8063583815028902
+}
